@@ -2,7 +2,7 @@
 
 ### Python Backend Developer | Django | REST APIs
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge)](https://your-vercel-link.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge)](https://shekar-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/shekar-repaka-2314b92a1/)
 [![GitHub](https://img.shields.io/badge/GitHub-RepakaShekar-black?style=for-the-badge)](https://github.com/RepakaShekar)
 
@@ -25,7 +25,7 @@ The portfolio highlights my work with:
 # 🚀 Live Website
 
 🔗 **Portfolio:**  
-https://your-vercel-link.vercel.app
+https://shekar-portfolio.vercel.app
 
 ---
 
